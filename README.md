@@ -1,0 +1,1 @@
+Serendia Squad adlı sunucudan istek üzerine paylaşıldı. Başından sonuna kadar kendim yapmadım sebebi zamanım yok fakat isteklere göre uyarladım. İyi kullanımlar yakın zamanda mongo Moderasyon/Yönetim/Register tarzı bot paylaşımları yapılacak. İstek kodlar da yapabilirim bu çok istendiğinden gün içinde hemen yapmak istedim.
