@@ -1,0 +1,18 @@
+{
+  "name": "Davidson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Davidson",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.27.0",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
