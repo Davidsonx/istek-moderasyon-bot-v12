@@ -55,12 +55,6 @@ module.exports = () => {
 	
 	
 	 
-for (let yasak of ban) {
-        let kullanici = client.guilds.cache.get(ayar.sunucuID).members.cache.get(yasak.id);
-        if (kullanici) {
-            kullanici.ban({reason: `Bu yasaklama King tarafından açılmaz ban şeklinde banlandı`}).catch();
-        };
-    };
 
 
     for (let yasak of bans) {
